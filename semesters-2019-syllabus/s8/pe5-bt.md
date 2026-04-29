@@ -53,6 +53,13 @@ Module 1
 * [Elliptic Curve Cryptography | ECC in Cryptography and Network Security - Abhishek Sharma](https://youtu.be/0NGPhAPKYv4?si=KPzxiDzIcre3XEik) 👈
 * [SHA-256 | COMPLETE Step-By-Step Explanation (W/ Example) - RedBlockBlue](https://youtu.be/orIgy2MjqrA?si=StV3YKLDbb0vv6Y_) 👈
 
+Module 3
+
+* [PAXOS in Blockchain Technology 🔥🔥- Perfect Computer Engineer](https://youtu.be/CtKv-RnVsoA?si=hFEt2GsKQMobRamZ) 👈
+* [Can You TRUST Each Other In Crypto?? Byzantine Generals Problem Explained - CoinGecko](https://youtu.be/c8sJtzNjXS8?si=Ufsy30JLjZCBuJ19) 👈
+* [Practical Byzantine Fault Tolerance pBFT - Software Engineering Insights](https://youtu.be/rIp8ct2vJXw?si=UxzoBfWHJpPUmZd3) 👈
+* [Chapter 2 - Key And Bitcoin Address - My Code Coffee](https://youtu.be/CyfJSV8sP3k?si=xeP5Wbl5_3PPNMea) 👈
+
 </details>
 
 <details>
