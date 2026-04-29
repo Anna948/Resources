@@ -27,9 +27,31 @@ coverHeight: 231
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[BT Short Notes](https://drive.google.com/drive/folders/18EfYDj_P3n-6hXouGddhH77Bfa_ZCtbl?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [BT Notes](https://drive.google.com/drive/folders/1zwI2syuegq5twrXIyISeX7WWvj-bTU6I?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+Module 1
+
+* [AES: How to Design Secure Encryption - Spanning Tree](https://youtu.be/C4ATDMIz5wc?si=17Q5iLOik9zKa2w4) 👈
+* [#28. RSA Algorithm - Asymmetric key cryptography |CNS| #cns #cryptography #rsa #jntu #btech - Trouble- Free](https://youtu.be/JFQAHDOHjfM?si=mygGoeAi5OYeGQWZ) 👈
+* [Elliptic Curve Cryptography Tutorial - Understanding ECC through the Diffie-Hellman Key Exchange - Fullstack Academy](https://youtu.be/gAtBM06xwaw?si=k0ViB453t3xtfJW_) 👈
+* [Elliptic Curve Cryptography | ECC in Cryptography and Network Security - Abhishek Sharma](https://youtu.be/0NGPhAPKYv4?si=KPzxiDzIcre3XEik) 👈
+* [SHA-256 | COMPLETE Step-By-Step Explanation (W/ Example) - RedBlockBlue](https://youtu.be/orIgy2MjqrA?si=StV3YKLDbb0vv6Y_) 👈
 
 </details>
 
