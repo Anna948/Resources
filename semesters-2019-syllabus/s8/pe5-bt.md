@@ -60,6 +60,12 @@ Module 3
 * [Practical Byzantine Fault Tolerance pBFT - Software Engineering Insights](https://youtu.be/rIp8ct2vJXw?si=UxzoBfWHJpPUmZd3) 👈
 * [Chapter 2 - Key And Bitcoin Address - My Code Coffee](https://youtu.be/CyfJSV8sP3k?si=xeP5Wbl5_3PPNMea) 👈
 
+Module 5
+
+* [Ethereum Tutorial 3 Private Keys, Public Keys, and Account Addresses - Jochoa](https://youtu.be/Q-c-oGYJRWQ?si=mseGGe0uyQ31Yo3_) 👈
+* [What is the EVM? Ethereum Virtual Machine - Explained with Animations - Whiteboard Crypto](https://youtu.be/sTOcqS4msoU?si=cxmUi7jHKT1X2u6f) 👈
+* [Learn Solidity in 20 Minutes! - Dapp University](https://youtu.be/RQzuQb0dfBM?si=CLIp2-EXukkrTeE4) 👈
+
 </details>
 
 <details>
